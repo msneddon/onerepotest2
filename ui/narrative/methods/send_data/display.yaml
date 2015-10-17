@@ -1,7 +1,7 @@
 #
 # Define basic display information
 #
-name     : Async Docker Test
+name     : Test Catalog Method
 
 tooltip  : |
     Perform Async Docker Test.
